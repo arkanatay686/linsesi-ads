@@ -1,2 +1,4 @@
 # linsesi-ads
-Kami mempunyin linsesi ikln
+Kami mempunyin linsesi iklan
+#progam-ad
+Kami punya program javascript </>
